@@ -13,4 +13,9 @@ public class gitVersion {
 		
 		System.out.println("added bug 123");
 	}
+	
+	public static printaddition(int a, int b){
+		// addition
+		int c = a+b
+	}
 }
